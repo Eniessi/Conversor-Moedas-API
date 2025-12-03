@@ -23,60 +23,60 @@ val currencyTypes = listOf(
         name = "Dólar Americano",
         acronym = "USD",
         symbol = "$",
-        countryFlagImageUrl = "https://flagcdn.com/w320/us.png"
+        countryFlagImageUrl = "https://flagcdn.com/us.svg"
     ),
     CurrencyType(
         name = "Euro",
         acronym = "EUR",
         symbol = "€",
-        countryFlagImageUrl = "https://flagcdn.com/w320/eu.png"
+        countryFlagImageUrl = "https://flagcdn.com/eu.svg"
     ),
     CurrencyType(
         name = "Real Brasileiro",
         acronym = "BRL",
         symbol = "R$",
-        countryFlagImageUrl = "https://flagcdn.com/w320/br.png"
+        countryFlagImageUrl = "https://flagcdn.com/br.svg"
     ),
     CurrencyType(
         name = "Libra Esterlina",
         acronym = "GBP",
         symbol = "£",
-        countryFlagImageUrl = "https://flagcdn.com/w320/gb.png"
+        countryFlagImageUrl = "https://flagcdn.com/gb.svg"
     ),
     CurrencyType(
         name = "Iene Japonês",
         acronym = "JPY",
         symbol = "¥",
-        countryFlagImageUrl = "https://flagcdn.com/w320/jp.png"
+        countryFlagImageUrl = "https://flagcdn.com/jp.svg"
     ),
     CurrencyType(
         name = "Dólar Canadense",
         acronym = "CAD",
         symbol = "C$",
-        countryFlagImageUrl = "https://flagcdn.com/w320/ca.png"
+        countryFlagImageUrl = "https://flagcdn.com/ca.svg"
     ),
     CurrencyType(
         name = "Dólar Australiano",
         acronym = "AUD",
         symbol = "A$",
-        countryFlagImageUrl = "https://flagcdn.com/w320/au.png"
+        countryFlagImageUrl = "https://flagcdn.com/au.svg"
     ),
     CurrencyType(
         name = "Yuan Chinês",
         acronym = "CNY",
         symbol = "¥",
-        countryFlagImageUrl = "https://flagcdn.com/w320/cn.png"
+        countryFlagImageUrl = "https://flagcdn.com/cn.svg"
     ),
     CurrencyType(
         name = "Franco Suíço",
         acronym = "CHF",
         symbol = "Fr",
-        countryFlagImageUrl = "https://flagcdn.com/w320/ch.png"
+        countryFlagImageUrl = "https://flagcdn.com/ch.svg"
     ),
     CurrencyType(
         name = "Peso Argentino",
         acronym = "ARS",
         symbol = "$",
-        countryFlagImageUrl = "https://flagcdn.com/w320/ar.png"
+        countryFlagImageUrl = "https://flagcdn.com/ar.svg"
     )
 )
